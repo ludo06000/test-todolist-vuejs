@@ -1,6 +1,19 @@
 # ToDoApp-Vue3
+Testing vueJs 3 by creating a todo list
+
+## test-todolist-vuejs
+Learning the vueJs3 framework using the API compisition
+
+| Documentation     | Link                          |
+| :---------------- | ----------------------------: |
+| Composition Api   | [VueJs 3 Composition Api link](https://vuejs.org/api/composition-api-setup.html#composition-api-setup) |
+
 
 This template should help get you started developing with Vue 3 in Vite.
+
+```bash
+npm run dev
+```
 
 ## Recommended IDE Setup
 
@@ -33,8 +46,4 @@ npm run build
 ```sh
 npm run lint
 ```
-# test-todolist-vuejs
-# test-todolist-vuejs
-# test-todolist-vuejs
-# test-todolist-vuejs
-# test-todolist-vuejs
+
