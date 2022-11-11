@@ -5,7 +5,7 @@ Testing vueJs 3 by creating a todo list
 Learning the vueJs3 framework using the API compisition
 
 | Documentation     | Link                          |
-| :---------------- | ----------------------------: |
+| :---------------- | :---------------------------- |
 | Composition Api   | [VueJs 3 Composition Api link](https://vuejs.org/api/composition-api-setup.html#composition-api-setup) |
 
 
